@@ -45,11 +45,6 @@ section {
 h1,h2 {
     margin-bottom: 20px;
 }
-.navbar a{
-    color: white
-    text-decoration: none;
-    padding: 10px 20px;
-}
 .navbar a:hover {
     background-color: #555;
     border-radius: 5px;
